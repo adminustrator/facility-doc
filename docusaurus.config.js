@@ -84,7 +84,7 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "API Reference",
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
